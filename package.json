@@ -39,7 +39,7 @@
   "author": "Wendell Adriel <wendelladriel.ti@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "jodit": "github:4dmind/jodit",
+    "jodit": "github:4dmind/jodit"
   },
   "devDependencies": {
     "all-contributors-cli": "^5.5.0",
