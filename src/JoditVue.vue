@@ -34,7 +34,6 @@ export default {
       }
 
       if (this.extraButtons) config.extraButtons = this.extraButtons
-      console.log(config);
       return config
     }
   },
